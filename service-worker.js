@@ -6,7 +6,7 @@ const urlsToCache = [
     '/script.js',  // Ganti dengan file JS Anda
     '/manifest.json',
     '/images/portofolio.jpg', // Ganti dengan gambar yang Anda gunakan
-     'images/foto.jpg',
+    '/images/foto.jpg',
     '/images/icon-192x192.png',
     '/assets/CV_Nurul_Khafidoh.pdf',
 ];
